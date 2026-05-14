@@ -1,5 +1,5 @@
 # Trabalho-P1-PDV
-Trabalho em grupo para a construção de um código "Ponto de Venda" em Python, com uso do VSCode.
+Trabalho em grupo para a construção de um código "Ponto de Venda" em Python, com uso do VSCode. Trabalho proposto pelo professor Demétrius de Castro e realizado pelas alunas da turma de Ciência da Computação 2026.1 da UNIESP
 
 REQUISITOS DE CONCLUSÃO:
 • Cadastro de produtos – código, nome, valor, estoque
